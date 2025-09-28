@@ -11,4 +11,6 @@ The Hardware used in this project is listed below:
 
 The code is written in Micropython, during boot the code is paused for 5 seconds to allow a chance for the 12/24 hr switch to bechanged so the clock can enter setup mode
 The clock will automaticlly adjust for daylight saving time (the time zone / DST used in the clock is Australia east coast time)
+
+
 <img width="654" height="869" alt="image" src="https://github.com/user-attachments/assets/e124c4ae-00b7-4638-8d63-a7dd7ac25412" />
